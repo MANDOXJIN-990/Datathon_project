@@ -1,1 +1,9 @@
+## EDA Key Findings Summary
 
+1. **Yield is right-skewed** — log transformation makes it nearly normal and better suited for regression models.
+2. **Top yielding crops** include coconut, sugarcane, and banana — high-water, warm-climate crops.
+3. **State disparity** — some southern states like Kerala and Tamil Nadu have significantly higher average yields.
+4. **Season impact** — Kharif crops show highest yield variability; Rabi crops are more stable.
+5. **Year trend** — Yield has improved over decades, indicating improved agricultural practices.
+6. **Area vs Yield** — Moderate negative correlation: smaller farms often achieve higher per-hectare yield.
+7. **Crop diversity** — States with more crop diversity tend to have more balanced yield distributions.
